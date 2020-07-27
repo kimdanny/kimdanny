@@ -6,6 +6,8 @@
 - 🤔 I’m coming up with fresh and interesting ideas for final year project  
 - 📫 Do reach me!
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=kimdanny&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kimdanny/kimdanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
