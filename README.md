@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Undergraduate Researcher at UCL Web Intelligence Group  
+- 🔭 I’m currently working as an Undergraduate Researcher at UCL Web Intelligence Group  
 - 🌱 I’m currently learning AWS and dialog system
 - 👯 I’m looking to collaborate on interesting open source project  
 - 🤔 I’m coming up with fresh and interesting ideas for a final year project  
