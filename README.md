@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Summer Data Analytics Intern at one of IBs in S.Korea  
-- 🌱 I’m currently learning Stock Price Prediction / Portfolio Management and Transformer Language Models
+- 🔭 I’m currently working as a Undergraduate Researcher at UCL Web Intelligence Group  
+- 🌱 I’m currently learning AWS and dialog system
 - 👯 I’m looking to collaborate on interesting open source project  
-- 🤔 I’m coming up with fresh and interesting ideas for final year project  
+- 🤔 I’m coming up with fresh and interesting ideas for a final year project  
 - 📫 Do reach me!
+
+Updated on: 27th May 2021
+
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=kimdanny&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
